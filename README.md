@@ -2,15 +2,12 @@
 
 ### TP maths - statistique. École multimédia
 
-
 Vous avez 3h pour effectuer ce TP.
 
-Les données se trouve ici : data
+Les données se trouve ici : [data](./sales.js)
 
-Vous pouvez utiliser utiliser également MongoDB Compass, dans ce cas voir l'installation ici : mongodb compass
-
-Contexte
-Vous êtes chargé d'analyser les ventes de produits pour une chaîne de magasins utilisant une base de données MongoDB.
+Contexte Vous êtes chargé d'analyser les ventes de produits pour une chaîne de magasins utilisant une base de données
+MongoDB.
 
 Les données sont stockées dans une collection appelée sales.
 
